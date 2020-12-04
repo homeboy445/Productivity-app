@@ -1,4 +1,4 @@
-                                            --------------------THE PRODUCTIVITY APP--------------------
+                      --------------------THE PRODUCTIVITY APP--------------------
 
 Well, the productivity app is specifically design to cater the needs of productivity tracking and thereby enchancement!
 
