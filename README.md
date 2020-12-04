@@ -1,6 +1,8 @@
                       --------------------THE PRODUCTIVITY APP--------------------
 
-Well, the productivity app is specifically design to cater the needs of productivity tracking and thereby enchancement!
+Well, the productivity app is specifically designed to cater the needs of productivity tracking and thereby enchancement!
+
+NOTE: the app is made in electron js.
 
 Current features of this app:
 
